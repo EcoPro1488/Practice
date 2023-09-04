@@ -32,3 +32,4 @@ There i'm try to survive
       private:
   beseda s bogom str sostoitsya, str sovsem, str skoro;
 end.
+\'''
