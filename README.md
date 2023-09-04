@@ -25,11 +25,11 @@ There i'm try to survive
 
 **Code Example**
 ---
-\'''
+\```c++
 #Zdes <moi kreativ>
   using v pol vtorogo nochi; 
     class konchilsya {
       private:
   beseda s bogom str sostoitsya, str sovsem, str skoro;
 end.
-\'''
+\```
